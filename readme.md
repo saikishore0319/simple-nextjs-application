@@ -156,5 +156,5 @@ kubectl port-forward svc/nextjs-service 3000:3000 -n nextjs-demo
 ```
 - Access the app at: [http://localhost:3000](http://localhost:3000)  
 ![App Screenshot](./assets/Screenshot%202025-10-07%20004414.png)
-```
+
 
